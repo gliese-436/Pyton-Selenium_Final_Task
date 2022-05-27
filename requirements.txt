@@ -5,6 +5,7 @@ certifi==2022.5.18
 cffi==1.15.0
 colorama==0.4.4
 cryptography==37.0.2
+faker==13.12.0
 h11==0.13.0
 idna==3.3
 iniconfig==1.1.1
